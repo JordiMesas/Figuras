@@ -1,0 +1,1 @@
+# Area y perimetro de un rectangulo y de un triangulo
