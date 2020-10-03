@@ -4,7 +4,7 @@ require_once 'figuras.php';
 
 class Triangulo extends Figure{
     
-    public function __construct(){
+    public function __construct($base , $altura){
         //llamamos al constructor padre
         parent::__construct($base , $altura);
     }    
